@@ -11,7 +11,7 @@ Inicialmente pretendo colocar todos os exercícios juntos, se crescer muito vou 
 ```
 **Link: [solução](mmc.hs)**
 ```
-    Verificar se um número natural é perfeito, verificar quais números de
+    Verificar se um número natural 'n' é perfeito, verificar quais números de
     uma lista são perfeitos, quais os números perfeitos menores que um 'n',
     a quantidade de números perfeitos menores que 'n'.
     Na Matemática, um número perfeito é um número inteiro para o qual a soma
@@ -20,3 +20,7 @@ Inicialmente pretendo colocar todos os exercícios juntos, se crescer muito vou 
     pois: 28 = 1 + 2 + 4 + 7 + 14.
 ```
 **Link: [solução](perfeito.hs)**
+```
+    Verficar se um dado número é primo.
+```
+**Link: [solução](prime.hs)**
