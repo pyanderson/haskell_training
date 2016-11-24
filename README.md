@@ -53,3 +53,7 @@ Inicialmente pretendo colocar todos os exercícios juntos, se crescer muito vou 
 	e posição impar na segunda lista
 ```
 **Link: [solução](par_impar.hs)**
+```
+    Gerar a interseção de duas listas.
+```
+**Link: [solução](intersect.hs)**
