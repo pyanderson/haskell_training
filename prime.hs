@@ -12,6 +12,6 @@ ePrimo'Aux n (x:xs)
 
 ePrimo'				:: Int -> Bool
 ePrimo' n
-  | n == 2 				= True
-  | n > 2 				= ePrimo'Aux n (2:[3,5..floor.sqrt.fromIntegral $ n + 1])
+  | n == 2 			= True
+  | n > 2 			= ePrimo'Aux n (2:[3,5..floor.sqrt.fromIntegral $ n + 1])
   | otherwise 			= False
