@@ -24,3 +24,7 @@ Inicialmente pretendo colocar todos os exercícios juntos, se crescer muito vou 
     Verficar se um número é primo.
 ```
 **Link: [solução](prime.hs)**
+```
+    Verficar se um número é um número de Mersenne.
+```
+**Link: [solução](mersenne.hs)**
