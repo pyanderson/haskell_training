@@ -29,7 +29,7 @@ Inicialmente pretendo colocar todos os exercícios juntos, se crescer muito vou 
 ```
 **Link: [solução](mersenne.hs)**
 ```
-    Data a reprentação decimal de um número inteiro n >= 0,
+    Dada a reprentação decimal de um número inteiro n >= 0,
 	implementar uma função com a representação binária e vice e versa.
 ```
 **Link: [solução](binario.hs)**
