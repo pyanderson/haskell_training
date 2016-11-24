@@ -16,7 +16,7 @@ Inicialmente pretendo colocar todos os exercícios juntos, se crescer muito vou 
     a quantidade de números perfeitos menores que 'n'.
     Na Matemática, um número perfeito é um número inteiro para o qual a soma
     de todos os seus divisores positivos próprios (excluindo ele mesmo)
-    é igual ao próprio número[1].Por exemplo, o número 28 é,
+    é igual ao próprio número.Por exemplo, o número 28 é,
     pois: 28 = 1 + 2 + 4 + 7 + 14.
 ```
 **Link: [solução](perfeito.hs)**
@@ -47,3 +47,9 @@ Inicialmente pretendo colocar todos os exercícios juntos, se crescer muito vou 
 	Ex: ["123", "456", "789"] = ["147", "258", "369"]
 ```
 **Link: [solução](transpose.hs)**
+```
+    Gerar duas listas a partir de uma única lista separando
+	os elementos por posição, posição par na primeira lista
+	e posição impar na segunda lista
+```
+**Link: [solução](par_impar.hs)**
