@@ -9,7 +9,7 @@ Inicialmente pretendo colocar todos os exercícios juntos, se crescer muito vou 
 ```
     Calcular o mmc de dois números.
 ```
-**Link**: [soulução](mmc.hs)
+**Link: [solução](mmc.hs)**
 ```
     Verificar se um número natural é perfeito, verificar quais números de
     uma lista são perfeitos, quais os números perfeitos menores que um 'n',
@@ -19,4 +19,4 @@ Inicialmente pretendo colocar todos os exercícios juntos, se crescer muito vou 
     é igual ao próprio número[1].Por exemplo, o número 28 é,
     pois: 28 = 1 + 2 + 4 + 7 + 14.
 ```
-**LINK** [solução](perfeito.hs)
+**Link: [solução](perfeito.hs)**
