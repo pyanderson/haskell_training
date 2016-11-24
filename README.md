@@ -42,3 +42,8 @@ Inicialmente pretendo colocar todos os exercícios juntos, se crescer muito vou 
 [COLLATZ](https://pt.wikipedia.org/wiki/Conjectura_de_Collatz)
 
 **Link: [solução](collatz.hs)**
+```
+    Realizar a transposição de uma lista de strings.
+	Ex: ["123", "456", "789"] = ["147", "258", "369"]
+```
+**Link: [solução](transpose.hs)**
