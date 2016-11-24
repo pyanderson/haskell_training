@@ -64,3 +64,8 @@ Inicialmente pretendo colocar todos os exercícios juntos, se crescer muito vou 
 	Ex: [1, 2, 3] "abc45" = "abc45cba"
 ```
 **Link: [solução](cat_indices.hs)**
+```
+    Receber uma lista de Alunos com o resultado de 3 avaliações,
+	ordenar a lista e calcular a media de cada um.
+```
+**Link: [solução](alunos.hs)**
