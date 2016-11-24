@@ -1,4 +1,4 @@
-ePerfeito 			:: Int -> Bool
+ePerfeito 		:: Int -> Bool
 ePerfeito n     	= n == sum [x | x <- [1..(div n 2)], n `mod` x == 0]
 
 -- Verificar quais os numeros perfeitos de uma lista
