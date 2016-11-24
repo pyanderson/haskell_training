@@ -39,4 +39,6 @@ Inicialmente pretendo colocar todos os exercícios juntos, se crescer muito vou 
 	dada uma lista de número, todas as sequencias de collatz
 	desses números, todos os tamanhos dessas sequencias.
 ```
+[COLLATZ](https://pt.wikipedia.org/wiki/Conjectura_de_Collatz)
+
 **Link: [solução](collatz.hs)**
