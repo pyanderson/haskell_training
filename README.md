@@ -21,6 +21,6 @@ Inicialmente pretendo colocar todos os exercícios juntos, se crescer muito vou 
 ```
 **Link: [solução](perfeito.hs)**
 ```
-    Verficar se um dado número é primo.
+    Verficar se um número é primo.
 ```
 **Link: [solução](prime.hs)**
