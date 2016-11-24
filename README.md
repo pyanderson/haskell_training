@@ -34,7 +34,7 @@ Inicialmente pretendo colocar todos os exercícios juntos, se crescer muito vou 
 ```
 **Link: [solução](binario.hs)**
 ```
-    Gerar a sequencia de collatz (se um npumero for impar n * 3 + 1 senão n / 2)
+    Gerar a sequencia de collatz (se um número for impar n * 3 + 1 senão n / 2)
     de um número 'n', o tamanho da sequencia de collatz de um 
 	número 'n', dada uma lista de número, todas as sequencias de
 	collatz desses números, todos os tamanhos dessas sequencias.
