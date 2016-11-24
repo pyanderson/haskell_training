@@ -57,3 +57,10 @@ Inicialmente pretendo colocar todos os exercícios juntos, se crescer muito vou 
     Gerar a interseção de duas listas.
 ```
 **Link: [solução](intersect.hs)**
+```
+    Receber uma lista de indices e uma lista de elementos,
+	concatenar nessa lista de elementos os elementos da mesma
+	lista utilizando os indices da lista de indices invertida.
+	Ex: [1, 2, 3] "abc45" = "abc45cba"
+```
+**Link: [solução](cat_indices.hs)**
