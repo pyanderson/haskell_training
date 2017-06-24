@@ -9,6 +9,7 @@ Inicialmente pretendo colocar todos os exercícios juntos, se crescer muito vou 
 </summary>
 <details>
 <summary>MMC</summary>
+
 ```
     Calcular o mmc de dois números.
 ```
@@ -16,6 +17,7 @@ Inicialmente pretendo colocar todos os exercícios juntos, se crescer muito vou 
 </details>
 <details>
 <summary>Número Perfeito</summary>
+
 ```
     Verificar se um número natural 'n' é perfeito, verificar quais números de
     uma lista são perfeitos, quais os números perfeitos menores que um 'n',
@@ -29,6 +31,7 @@ Inicialmente pretendo colocar todos os exercícios juntos, se crescer muito vou 
 </details>
 <details>
 <summary>Número Primo</summary>
+
 ```
     Verficar se um número é primo.
 ```
@@ -36,6 +39,7 @@ Inicialmente pretendo colocar todos os exercícios juntos, se crescer muito vou 
 </details>
 <details>
 <summary>Número de Mersenne</summary>
+
 ```
     Verficar se um número é um número de Mersenne.
 ```
@@ -43,19 +47,21 @@ Inicialmente pretendo colocar todos os exercícios juntos, se crescer muito vou 
 </details>
 <details>
 <summary>Conversão Binário`<->`Decimal</summary>
+
 ```
     Dada a reprentação decimal de um número inteiro n >= 0,
-	implementar uma função com a representação binária e vice e versa.
+    implementar uma função com a representação binária e vice e versa.
 ```
 **Link: [solução](binario.hs)**
 </details>
 <details>
 <summary>Sequencia de Collatz</summary>
+
 ```
     Gerar a sequencia de collatz (se um número for impar n * 3 + 1 senão n / 2)
     de um número 'n', o tamanho da sequencia de collatz de um 
-	número 'n', dada uma lista de número, todas as sequencias de
-	collatz desses números, todos os tamanhos dessas sequencias.
+    número 'n', dada uma lista de número, todas as sequencias de
+    collatz desses números, todos os tamanhos dessas sequencias.
 ```
 [COLLATZ](https://pt.wikipedia.org/wiki/Conjectura_de_Collatz)
 
@@ -63,14 +69,16 @@ Inicialmente pretendo colocar todos os exercícios juntos, se crescer muito vou 
 </details>
 <details>
 <summary>Transposição de Listas</summary>
+
 ```
     Realizar a transposição de uma lista de strings.
-	Ex: ["123", "456", "789"] = ["147", "258", "369"]
+    Ex: ["123", "456", "789"] = ["147", "258", "369"]
 ```
 **Link: [solução](transpose.hs)**
 </details>
 <details>
 <summary>Interseção de Listas</summary>
+
 ```
     Gerar a interseção de duas listas.
 ```
@@ -78,28 +86,31 @@ Inicialmente pretendo colocar todos os exercícios juntos, se crescer muito vou 
 </details>
 <details>
 <summary>AD-HOC - Separar impares e pares</summary>
+
 ```
     Gerar duas listas a partir de uma única lista separando
-	os elementos por posição, posição par na primeira lista
-	e posição impar na segunda lista
+    os elementos por posição, posição par na primeira lista
+    e posição impar na segunda lista
 ```
 **Link: [solução](par_impar.hs)**]
 </details>
 <details>
 <summary>AD-HOC - Concatenar listas utilizando os Indices</summary>
+
 ```
     Receber uma lista de indices e uma lista de elementos,
-	concatenar nessa lista de elementos os elementos da mesma
-	lista utilizando os indices da lista de indices invertida.
-	Ex: [1, 2, 3] "abc45" = "abc45cba"
+    concatenar nessa lista de elementos os elementos da mesma
+    lista utilizando os indices da lista de indices invertida.
+    Ex: [1, 2, 3] "abc45" = "abc45cba"
 ```
 **Link: [solução](cat_indices.hs)**
 </details>
 <details>
 <summary>AD-HOC - Calcular Nota de Alunos de uma Turma</summary>
+
 ```
     Receber uma lista de Alunos com o resultado de 3 avaliações,
-	ordenar a lista e calcular a media de cada um.
+    ordenar a lista e calcular a media de cada um.
 ```
 **Link: [solução](alunos.hs)**
 </details>
